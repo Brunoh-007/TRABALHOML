@@ -1,1 +1,16 @@
-th {background-color: brown;}
+
+body {background-color: #D3D3D3;}
+a{cursor: pointer; padding: 10px;}
+table{border-collapse: collapse;display: flex;justify-content: center;}
+
+th {background-color: black; color: white; border: solid silver;padding-right: 350px;}
+td {border: solid silver;padding-right: 400px;width: 50px;color: black; }
+
+.not {background-color: #363636;
+padding-top: 30px;
+text-align: center
+;}
+
+.white {color: white;}
+.not2 {background-color: white;
+text-align: center;margin: 40px;}
